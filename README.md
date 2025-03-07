@@ -15,6 +15,9 @@
   - **OpenWeather API** – Fetches real-time weather data.
   - **Unsplash API** – Provides dynamic background images based on weather conditions.
 
+## 📸 Screenshot
+![![alt text](image.png)](image.png)
+
 ## 📂 Project Structure
 ```
 📦 WeatherApp
